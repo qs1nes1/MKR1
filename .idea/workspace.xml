@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f89c6d6-a6e4-4b06-b177-a1a2d0e627bc" name="Changes" comment="test2">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/tests.py" afterDir="false" />
-    </list>
+    <list default="true" id="6f89c6d6-a6e4-4b06-b177-a1a2d0e627bc" name="Changes" comment="requirements.txt" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,6 +31,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python tests.Python tests in tests.py.executor": "Run",
     "Python.tasks.executor": "Run",
     "Python.tests.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -113,7 +111,31 @@
       <option name="project" value="LOCAL" />
       <updated>1712926852098</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="test3">
+      <option name="closed" value="true" />
+      <created>1712927401666</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1712927401666</updated>
+    </task>
+    <task id="LOCAL-00009" summary="report">
+      <option name="closed" value="true" />
+      <created>1712927514303</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1712927514303</updated>
+    </task>
+    <task id="LOCAL-00010" summary="requirements.txt">
+      <option name="closed" value="true" />
+      <created>1712927614404</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1712927614404</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -123,6 +145,9 @@
     <MESSAGE value="population.txt" />
     <MESSAGE value="test1" />
     <MESSAGE value="test2" />
-    <option name="LAST_COMMIT_MESSAGE" value="test2" />
+    <MESSAGE value="test3" />
+    <MESSAGE value="report" />
+    <MESSAGE value="requirements.txt" />
+    <option name="LAST_COMMIT_MESSAGE" value="requirements.txt" />
   </component>
 </project>
